@@ -5,7 +5,7 @@
 
 CA: 
 
-X: 
+X: https://x.com/moltprotocol
 
 Molt Protocol is an adaptive economic system built around one idea:
 
